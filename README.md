@@ -1,1 +1,1 @@
-# 20240902_RaspberryPico-W-
+# 20240902_RaspberryPicoW
